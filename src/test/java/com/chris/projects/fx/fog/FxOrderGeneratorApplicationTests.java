@@ -1,4 +1,4 @@
-package com.chris.projects.FXOrderGenerator;
+package com.chris.projects.fx.fog;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
