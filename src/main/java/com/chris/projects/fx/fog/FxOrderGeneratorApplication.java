@@ -1,4 +1,4 @@
-package com.chris.projects.FXOrderGenerator;
+package com.chris.projects.fx.fog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

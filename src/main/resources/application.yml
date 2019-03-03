@@ -1,0 +1,9 @@
+fix:
+  configFile: fix-config.cfg
+  acceptor: false
+  SenderCompID: chris-order-generator
+  TargetCompID: chris-FTP
+cutofftime:
+  minbefore: 10
+scheduler:
+  frequency: 10
